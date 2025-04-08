@@ -1,10 +1,8 @@
-<h1 align="left">Fala meu parceiro, di boa?</h1>
+<h1 align="center">Fala meu parceiro, di boa?</h1>
 
 ###
 
-<p align="left">Kayky
-Brasileiro
-P2</p>
+<p align="center">Kayky  |  Brasileiro  |  P2</p>
 
 ###
 
