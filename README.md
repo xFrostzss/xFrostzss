@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Eae+Meu+Bom+👋🏻" />
 </p>
 
-## **Kayki Ivan**
+Kayky Rodrigues
 
 <div align="justify">
 
