@@ -20,6 +20,5 @@
 
 - ♦️ Aprender logo de uma vez como programar da forma correta
 - ♦️ Ser uma pessoa que consiga o que sempre sonhou e ainda tem vontade
-- ♦️ Trazer orgulho as pessoas próximas de mim
 
 </div>
